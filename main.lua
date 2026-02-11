@@ -7,7 +7,7 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Auto Farm",
+   Name = "ไม่มีปัญญาฟาม🫵by pond m1/8",
    LoadingTitle = "loading...",
    LoadingSubtitle = "by pond",
    ConfigurationSaving = {Enabled = false}
